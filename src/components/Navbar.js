@@ -37,8 +37,8 @@ function NavBar() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        <Navbar.Brand href="/" className="d-flex">
-          <h3>VK</h3>
+        <Navbar.Brand className="d-flex">
+          <Link to={'/'} style={{ color: '#FFF',textDecoration: 'none'  }} ><h3>VK</h3></Link>
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"

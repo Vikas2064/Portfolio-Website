@@ -22,9 +22,6 @@ button:focus {
   box-shadow: none !important;
 }
 
-/* --------- */
-/*  Preloader */
-/* --------- */
 #preloader {
   position: fixed;
   top: 0;
