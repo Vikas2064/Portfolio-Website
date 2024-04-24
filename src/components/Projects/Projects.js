@@ -2,9 +2,9 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import chatify from "../../Assets/Projects/news_app.jpg";
+import suicide from "../../Assets/Projects/portfolio-8279357_960_720.jpg";
+import bitsOfCode from "../../Assets/Projects/School_management.webp";
 
 function Projects() {
   return (
